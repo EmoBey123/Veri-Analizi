@@ -20,3 +20,5 @@ for veri in r:
       "Url":url,
       "Olay":olay
   })
+
+kisiler[0]
